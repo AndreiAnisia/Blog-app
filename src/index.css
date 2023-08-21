@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Montreal-Serial;
+    src: url("assets/fonts/Montreal-Serial\ Regular.ttf");
+}
